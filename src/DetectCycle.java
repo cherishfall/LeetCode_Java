@@ -14,7 +14,7 @@ public class DetectCycle {
  *     }
  * }
  */
-public class Solution {
+class Solution_17 {
     public ListNode detectCycle(ListNode head) {
         HashSet<ListNode> nodes = new HashSet<>();
 
