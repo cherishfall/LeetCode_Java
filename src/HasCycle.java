@@ -13,14 +13,7 @@ public class HasCycle {
  * }
  */
 
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) {
-        val = x;
-        next = null;
-    }
-}
+
 
 class Solution_16 {
     public boolean hasCycle(ListNode head) {
